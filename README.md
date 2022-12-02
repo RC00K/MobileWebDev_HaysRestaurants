@@ -1,2 +1,2 @@
-# MobileWebDevI_HaysRestaurants
+# MobileWebDev_HaysRestaurants
 Mobile Web Development I - Assignment
